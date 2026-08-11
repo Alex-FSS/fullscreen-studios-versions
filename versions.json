@@ -1,0 +1,133 @@
+{
+  "publisher": "Fullscreen Studios",
+  "updated": "2026-08-12",
+  "assets": [
+    {
+      "name": "COZY Stylized Weather 3 Integration | Game Creator 2",
+      "version": "1.0.4",
+      "published": "2026-07-22",
+      "changelog": ""
+    },
+    {
+      "name": "Editor Pro 2",
+      "version": "2.0.0",
+      "published": null,
+      "status": "draft",
+      "changelog": ""
+    },
+    {
+      "name": "Editor Pro | Game Creator 2",
+      "version": "1.3.2",
+      "published": "2026-06-05",
+      "changelog": ""
+    },
+    {
+      "name": "HeroBridge Standalone | Character Customizer",
+      "version": "1.1.1",
+      "published": "2026-06-01",
+      "changelog": ""
+    },
+    {
+      "name": "HeroBridge | Integration of Sidekick for Game Creator 2",
+      "version": "1.1.0",
+      "published": "2026-06-01",
+      "changelog": ""
+    },
+    {
+      "name": "Inventory Extended | Game Creator 2",
+      "version": "1.2.1",
+      "published": "2026-07-13",
+      "changelog": ""
+    },
+    {
+      "name": "LogicBlock | Game Creator 2",
+      "version": "1.3.0",
+      "published": "2026-06-04",
+      "changelog": ""
+    },
+    {
+      "name": "Mailbox | Game Creator 2",
+      "version": "1.0.0",
+      "published": "2026-06-01",
+      "changelog": ""
+    },
+    {
+      "name": "NanoSave | Game Creator 2",
+      "version": "1.1.0",
+      "published": "2026-06-01",
+      "changelog": ""
+    },
+    {
+      "name": "NodeFlow Bundle",
+      "version": "1.0.0",
+      "published": "2026-07-22",
+      "changelog": ""
+    },
+    {
+      "name": "NodeFlow Dialogue | Game Creator 2",
+      "version": "1.2.4",
+      "published": "2026-07-31",
+      "changelog": ""
+    },
+    {
+      "name": "NodeFlow LogicBlock | Game Creator 2",
+      "version": "1.2.0",
+      "published": "2026-07-27",
+      "changelog": ""
+    },
+    {
+      "name": "NodeFlow Quest | Game Creator 2",
+      "version": "1.2.2",
+      "published": "2026-07-27",
+      "changelog": ""
+    },
+    {
+      "name": "NodeFlow Visual Scripting | Game Creator 2",
+      "version": "1.1.0",
+      "published": "2026-07-27",
+      "changelog": ""
+    },
+    {
+      "name": "Persistent Instances | Game Creator 2",
+      "version": "1.0.0",
+      "published": "2026-06-01",
+      "changelog": ""
+    },
+    {
+      "name": "Runtime Studio",
+      "version": "1.4.1",
+      "published": "2026-07-31",
+      "changelog": ""
+    },
+    {
+      "name": "Runtime Studio – Asset Importer",
+      "version": "1.0.1",
+      "published": "2026-07-31",
+      "changelog": ""
+    },
+    {
+      "name": "Runtime Studio – Game Creator 2 Integration",
+      "version": "1.2.1",
+      "published": "2026-07-31",
+      "changelog": ""
+    },
+    {
+      "name": "Runtime Studio – Terrain Editor",
+      "version": "1.0.0",
+      "published": "2026-07-08",
+      "changelog": ""
+    },
+    {
+      "name": "Smart Thumbnails | Game Creator 2",
+      "version": "1.0.1",
+      "published": "2026-06-01",
+      "changelog": ""
+    },
+    {
+      "name": "Visual Scripting Bundle for Game Creator 2",
+      "version": "1.1.0",
+      "published": "2026-07-19",
+      "changelog": ""
+    }
+  ]
+}
